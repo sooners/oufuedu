@@ -8,6 +8,7 @@ class Home extends CI_Controller{
 		//echo 'hello';
 		//echo base_url();
 		//echo site_url();
+		//echo site_url('');
 		$this->load->view('index/index');
 	}
 }
