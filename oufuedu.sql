@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿# MySQL-Front 5.1  (Build 2.7)
-=======
 # MySQL-Front 5.1  (Build 2.7)
->>>>>>> origin/master
 
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE */;
 /*!40101 SET SQL_MODE='NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */;
@@ -19,7 +15,6 @@
 # Server version 5.7.4-m14
 
 #
-<<<<<<< HEAD
 # Source for table o_apply
 #
 
@@ -332,7 +327,6 @@ LOCK TABLES `o_writetip` WRITE;
 /*!40000 ALTER TABLE `o_writetip` DISABLE KEYS */;
 
 /*!40000 ALTER TABLE `o_writetip` ENABLE KEYS */;
-=======
 # Source for table user
 #
 
@@ -353,7 +347,6 @@ LOCK TABLES `user` WRITE;
 INSERT INTO `user` VALUES (1,'yzm','yzmyzm');
 INSERT INTO `user` VALUES (2,'hallo','hellooo');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
->>>>>>> origin/master
 UNLOCK TABLES;
 
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
